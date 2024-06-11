@@ -18,10 +18,13 @@ public class Settings extends AppCompatActivity {
 
     private float[] conversionValues = { 100f, 0.001f, 39.3701f };
     private String[] conversionLabels = { "Centimeter", "Kilometer", "Inch" };
-    // chootyi tever dikhane nikli thi ya still dikhayedi
+    // chootyi tever dikhane nikli thi ya still dikha-yengi
     // maro in currupt muslimani kution ko chahe jaan hi q na chali jaye
     // humne kiya choorhyan pehn rakhi thi ya hain
     // choot bech kar islam phelayengi
+    // gadhi hai tumhari begairat chootyi baap tum bachalo gi in kutiyon ko toh bachao na
+    // comptition should be equal
+    // if you think you are doggi mama stubborn currupt mama
     // big no for these stubborn currupt puppies at no condition
     private String[] shortConversionLabel = { "cm", "km", "in" };
 
